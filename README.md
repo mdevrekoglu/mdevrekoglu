@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Devrekoğlu</h1>
-<h3 align="center">I am a Computer Engineering student at Dokuz Eylül University. 3/4 :)</h3>
+<h3 align="center">I am a Computer Engineering student at Dokuz Eylül University. :)</h3>
 
 - 🌱 I’m currently learning **C# and .Net**
 
