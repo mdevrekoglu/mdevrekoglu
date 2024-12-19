@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Devrekoğlu</h1>
 <h3 align="center">I am a Computer Engineering student at Dokuz Eylül University. :)</h3>
 
-- 🌱 I’m currently learning **C# and .Net**
+- 🌱 I’m currently learning **C#, .Net, TypeScript**
 
 - 📫 My email address: **mehmetdevrekoglu01@gmail.com**
 
